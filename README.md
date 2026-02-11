@@ -97,6 +97,6 @@ open "IT-Inventory Manager.xcodeproj"
 
 ## Author
 
-**Egor Pylkov** — Portfolio Project (Fachinformatiker für Anwendungsentwicklung)
+**Egor Pylkov** — Portfolio Project 
 
 Made with ❤️ in Germany
