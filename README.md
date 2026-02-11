@@ -8,16 +8,19 @@ Built with **SwiftUI** + **SwiftData** (iOS 17+). No backend required — all da
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/dashboard.png" width="300" alt="Dashboard" />
-  <img src="screenshots/add_device.png" width="300" alt="Add Device" />
-</p>
+### Dashboard & Management
 
-<p align="center">
-  <img src="screenshots/onboarding_1.png" width="240" alt="Welcome" />
-  <img src="screenshots/onboarding_2.png" width="240" alt="Track" />
-  <img src="screenshots/onboarding_3.png" width="240" alt="Get Started" />
-</p>
+| Main Dashboard | Add New Device |
+|:---:|:---:|
+| <img src="screenshots/dashboard.png" width="320"> | <img src="screenshots/add_device.png" width="320"> |
+| **Glassmorphism Stats & Filters**<br>Interactive category headers and status pills | **Visual Device Entry**<br>Category selection with live validation |
+
+### First Launch Experience
+
+| Welcome | Track | Get Started |
+|:---:|:---:|:---:|
+| <img src="screenshots/onboarding_1.png" width="240"> | <img src="screenshots/onboarding_2.png" width="240"> | <img src="screenshots/onboarding_3.png" width="240"> |
+| **Welcome Screen**<br>Clean, branded introduction | **Feature Highlight**<br>Overview of core capabilities | **Ready to Go**<br>One-tap entry to the app |
 
 ---
 
