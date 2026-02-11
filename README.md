@@ -6,6 +6,21 @@ Built with **SwiftUI** + **SwiftData** (iOS 17+). No backend required — all da
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/dashboard.png" width="300" alt="Dashboard" />
+  <img src="screenshots/add_device.png" width="300" alt="Add Device" />
+</p>
+
+<p align="center">
+  <img src="screenshots/onboarding_1.png" width="240" alt="Welcome" />
+  <img src="screenshots/onboarding_2.png" width="240" alt="Track" />
+  <img src="screenshots/onboarding_3.png" width="240" alt="Get Started" />
+</p>
+
+---
+
 ## Features
 
 | Feature | Description |
@@ -72,7 +87,7 @@ final class Device {
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/TechVault.git
+git clone https://github.com/egpdev/TechVault.git
 cd TechVault
 open "IT-Inventory Manager.xcodeproj"
 # Build & Run on iPhone Simulator (Cmd+R)
