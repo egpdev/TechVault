@@ -102,4 +102,4 @@ open "IT-Inventory Manager.xcodeproj"
 
 **Egor Pylkov** — Portfolio Project 
 
-Made with ❤️ in Germany
+
