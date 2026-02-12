@@ -32,7 +32,7 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		508BC0962F3B626600F729D7 /* IT-Inventory Manager */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "IT-Inventory Manager";
+			path = "TechVault";
 			sourceTree = "<group>";
 		};
 		508BC0A62F3B626700F729D7 /* IT-Inventory ManagerTests */ = {
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 508BC08F2F3B626600F729D7 /* Build configuration list for PBXProject "IT-Inventory Manager" */;
+			buildConfigurationList = 508BC08F2F3B626600F729D7 /* Build configuration list for PBXProject "TechVault" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -541,7 +541,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		508BC08F2F3B626600F729D7 /* Build configuration list for PBXProject "IT-Inventory Manager" */ = {
+		508BC08F2F3B626600F729D7 /* Build configuration list for PBXProject "TechVault" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				508BC0B52F3B626700F729D7 /* Debug */,
